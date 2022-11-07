@@ -1,0 +1,78 @@
+/* Members Content */
+
+.title-member{
+    font-family: 'Dosis', sans-serif;
+    text-align: center;
+    font-size: 55px;
+    font-weight: 600;
+    color: #F676A6;
+    margin-top: 70px;
+    margin-bottom: 50px;
+}
+
+.row{
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+    justify-content: center;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.wrap-members{
+    text-decoration: none;
+    transition: .8s opacity;
+    transition-property: opacity;
+    transition-duration: 0.8s;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+}
+
+.wrap-members:hover{
+    opacity: 0.4;
+    text-decoration: none;
+    transition: opacity .4s cubic-bezier(0.250, 0.460, 0.450, 0.940);
+    outline: none;
+}
+
+
+.card{
+    width: 200px;
+    margin: 20px;
+    margin-bottom: 50px;
+    color: #F676A6;
+    opacity: 1;
+}
+
+.member-photo{
+    border-radius: 10px;
+}
+
+
+.info-member{
+    text-align: center;
+}
+
+.title-nickname{
+    font-family: 'Noto Sans JP', sans-serif;
+    font-weight: 700;
+    font-size: 27px;
+}
+
+.title-name{
+    font-family: 'Dosis', sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    text-align: center;
+}
+
+.title-birth{
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: 700;
+    font-size: 17px;
+    text-align: center;
+
+}
+
+.pink{
+    color: #f676a6;
+}

@@ -1,0 +1,74 @@
+.title-member{
+    font-family: 'Dosis', sans-serif;
+    text-align: center;
+    font-size: 55px;
+    font-weight: 600;
+    color: #F676A6;
+    margin-top: 70px;
+    margin-bottom: 50px;
+}
+
+.profile-area{
+    position: relative;
+    width: 71%;
+    margin: 0 auto;
+    background-color: #ffffff;
+    border-radius: 40px;
+}
+
+.jkt48-logo-2{
+    position: absolute;
+    right: 5vw;
+    top: -4vw;
+}
+
+.profile-set{
+    padding: 4rem 4vw;
+    display: flex;
+}
+
+.img-member{
+    width: 20vw;
+    margin: 0 5vw 0 0;
+}
+
+.member-image{
+    width: 20vw;
+    
+}
+
+.profile-info{
+    width: 100%;
+}
+
+.name-set{
+    margin: 0 0 2rem;
+}
+
+.title-jp-name{
+    font-family: 'Noto Sans JP', sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: .1em;
+}
+
+.title-name{
+    font-family: 'Dosis', sans-serif;
+    font-weight: 700;
+    font-size: 50px;
+    margin: .5rem auto;
+    line-height: 1.1;
+}
+
+.title-nickname{
+    font-family: 'Dosis', sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 36px;
+    line-height: 1.2;
+}
+
+.pink{
+    color: #f676a6;
+}
